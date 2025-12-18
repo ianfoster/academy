@@ -1,6 +1,6 @@
-# 03: Parsl Agent
+# 05: Parsl Agent
 
-A Agent that delegates actions to a [Parsl]('https://parsl-project.org).
+An agent that delegates actions to a [Parsl]('https://parsl-project.org) program.
 
 To run this example, install parsl:
 ```bash
